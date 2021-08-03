@@ -42,7 +42,7 @@ $( document ).ready(function() {
 	$('#appVersion').html('Application Information: ' + process.env.NODE_ENV + ' ' + 'version ' + VERSION);
 
 	//create map
-	theMap = L.map('mapDiv',{zoomControl: false, preferCanvas: true});
+	theMap = L.map('mapDiv',{zoomControl: false, preferCanvas: true, maxZoom: 13});
 
 	//add zoom control with your options
 	L.control.zoom({position:'topright'}).addTo(theMap);  
@@ -164,8 +164,9 @@ $( document ).ready(function() {
 	$('.rasterBtn').click(function() {
 		$('.rasterBtn').removeClass('slick-btn-selection');
 		$(this).addClass('slick-btn-selection');
-		var url =  $(this).text();
-		addRaster(url);
+		var raster =  $(this).data('raster');
+		console.log('thizzz', raster)
+		addRaster(raster);
 	});
 
 

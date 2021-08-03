@@ -1,0 +1,268 @@
+{
+    "type":"FeatureCollection",
+    "name":"priority wells",
+    "crs":{
+       "type":"name",
+       "properties":{
+          "name":"urn:ogc:def:crs:OGC:1.3:CRS84"
+       }
+    },
+    "features":[
+       {
+          "type":"Feature",
+          "properties":{
+             "ID_Well":"WWR0000401_Davos Well #3",
+             "Type":"GROUND",
+             "Facility_I":"WWR0000401",
+             "Site_Name":"Davos Well #3",
+             "X":-74.5902541958,
+             "Y":41.702976571500002,
+             "Location_C":"Well - relocated",
+             "Avg_Mgd":0.016090455872399999,
+             "Well_Depth":52.0,
+             "NWIS_Link":"SV 193",
+             "NWIS_ID":"414210074352501",
+             "WellDMeter":15.8496,
+             "Stop_Meter":326.25595615200001,
+             "Sbot_Meter":323.20795615200001,
+             "Comments":"Screen in L3 - Kame",
+             "RASTERVALU":339.058,
+             "WellType":"Priority",
+             "Max_Rate":108000.0,
+             "MaxR_Units":"GPD",
+             "M_Rate_MGD":0.108
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                -74.590254195761062,
+                41.702976571522385
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "ID_Well":"WWR0000401_Riverside Well #3",
+             "Type":"GROUND",
+             "Facility_I":"WWR0000401",
+             "Site_Name":"Riverside Well #3",
+             "X":-74.599205966900001,
+             "Y":41.694179012399999,
+             "Location_C":"Well - relocated",
+             "Avg_Mgd":0.049720967138300001,
+             "Well_Depth":92.0,
+             "NWIS_Link":"SV 227",
+             "NWIS_ID":"414138074355701",
+             "WellDMeter":28.0416,
+             "Stop_Meter":313.148,
+             "Sbot_Meter":310.1,
+             "Comments":"Screen in L1",
+             "RASTERVALU":337.793,
+             "WellType":"Priority",
+             "Max_Rate":331200.0,
+             "MaxR_Units":"GPD",
+             "M_Rate_MGD":0.3312
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                -74.599205966919939,
+                41.694179012380197
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "ID_Well":"WWR0000479_Center St. Well",
+             "Type":"GROUND",
+             "Facility_I":"WWR0000479",
+             "Site_Name":"Center St. Well",
+             "X":-74.389708,
+             "Y":41.71279,
+             "Location_C":"Well",
+             "Avg_Mgd":0.062288786801899997,
+             "Well_Depth":60.0,
+             "NWIS_Link":null,
+             "NWIS_ID":null,
+             "WellDMeter":18.288,
+             "Stop_Meter":81.428518066400002,
+             "Sbot_Meter":78.380518066400001,
+             "Comments":"Screen in L2 - Lacustrine sand",
+             "RASTERVALU":96.6685,
+             "WellType":"Priority",
+             "Max_Rate":190000.0,
+             "MaxR_Units":"GPD",
+             "M_Rate_MGD":0.19
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                -74.389708,
+                41.71279
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "ID_Well":"WWR0000479_Fallsview Well",
+             "Type":"GROUND",
+             "Facility_I":"WWR0000479",
+             "Site_Name":"Fallsview Well",
+             "X":-74.391157,
+             "Y":41.704287,
+             "Location_C":"Well",
+             "Avg_Mgd":0.26264949433899998,
+             "Well_Depth":35.0,
+             "NWIS_Link":null,
+             "NWIS_ID":null,
+             "WellDMeter":10.668,
+             "Stop_Meter":92.268603210400002,
+             "Sbot_Meter":89.2206032104,
+             "Comments":"Screen in L1 and L2 - Alluvium\/Kame",
+             "RASTERVALU":99.8886,
+             "WellType":"Priority",
+             "Max_Rate":720000.0,
+             "MaxR_Units":"GPD",
+             "M_Rate_MGD":0.72
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                -74.391157,
+                41.704287
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "ID_Well":"WWR0000479_Harris Well 1",
+             "Type":"GROUND",
+             "Facility_I":"WWR0000479",
+             "Site_Name":"Harris Well 1",
+             "X":-74.392171,
+             "Y":41.70369,
+             "Location_C":"Well",
+             "Avg_Mgd":0.140092273352,
+             "Well_Depth":58.0,
+             "NWIS_Link":"U   7",
+             "NWIS_ID":"414212074233201",
+             "WellDMeter":17.6784,
+             "Stop_Meter":85.277688684099999,
+             "Sbot_Meter":82.229688684099997,
+             "Comments":"Screen in L2 - Kame",
+             "RASTERVALU":99.9081,
+             "WellType":"Priority",
+             "Max_Rate":720000.0,
+             "MaxR_Units":"GPD",
+             "M_Rate_MGD":0.72
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                -74.392171,
+                41.70369
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "ID_Well":"WWR0000479_Harris Well 2",
+             "Type":"GROUND",
+             "Facility_I":"WWR0000479",
+             "Site_Name":"Harris Well 2",
+             "X":-74.392097,
+             "Y":41.703732,
+             "Location_C":"Well",
+             "Avg_Mgd":0.29758049674499998,
+             "Well_Depth":75.0,
+             "NWIS_Link":null,
+             "NWIS_ID":null,
+             "WellDMeter":22.86,
+             "Stop_Meter":80.428959167499997,
+             "Sbot_Meter":77.380959167499995,
+             "Comments":"Screen in L2 - Kame",
+             "RASTERVALU":100.241,
+             "WellType":"Priority",
+             "Max_Rate":880000.0,
+             "MaxR_Units":"GPD",
+             "M_Rate_MGD":0.88
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                -74.392097,
+                41.703732
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "ID_Well":"WWR0001055_Mountaindale Well #2",
+             "Type":"GROUND",
+             "Facility_I":"WWR0001055",
+             "Site_Name":"Mountaindale Well #2",
+             "X":-74.546469223599999,
+             "Y":41.6963467681,
+             "Location_C":"Well - relocated",
+             "Avg_Mgd":0.0257203327114,
+             "Well_Depth":54.0,
+             "NWIS_Link":"SV 407",
+             "NWIS_ID":"414147074324701",
+             "WellDMeter":16.4592,
+             "Stop_Meter":308.41121821299998,
+             "Sbot_Meter":305.36321821299998,
+             "Comments":"Screen in L3 - Kame \/ fractured rock \/ ice contract (Geology here low confidence) Bedrock well according to SWUDS",
+             "RASTERVALU":321.822,
+             "WellType":"Priority",
+             "Max_Rate":172800.0,
+             "MaxR_Units":"GPD",
+             "M_Rate_MGD":0.1728
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                -74.546469223608185,
+                41.696346768099623
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "ID_Well":"WWR0001748_Well 3",
+             "Type":"GROUND",
+             "Facility_I":"WWR0001748",
+             "Site_Name":"Well 3",
+             "X":-74.479065279500006,
+             "Y":41.577481796699999,
+             "Location_C":"Well - relocated",
+             "Avg_Mgd":0.10800377335,
+             "Well_Depth":38.0,
+             "NWIS_Link":"SV 487",
+             "NWIS_ID":"413438074284401",
+             "WellDMeter":11.5824,
+             "Stop_Meter":152.408,
+             "Sbot_Meter":149.36,
+             "Comments":"Screen in L1",
+             "RASTERVALU":160.828,
+             "WellType":"Priority",
+             "Max_Rate":432000.0,
+             "MaxR_Units":"GPD",
+             "M_Rate_MGD":0.432
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                -74.479065279472707,
+                41.577481796714501
+             ]
+          }
+       }
+    ]
+ }
